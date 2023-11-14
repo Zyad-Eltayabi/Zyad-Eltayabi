@@ -3,7 +3,7 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Zyad-Eltayabi&show_icons=true&theme=radical" /> 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Eltayabi&layout=compact" /> 
 
-<h2>Languages & Tools Preference</h2>
+<h2 width="100" >Languages & Tools Preference</h2>
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
