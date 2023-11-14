@@ -1,6 +1,5 @@
 # Hi there , I'm Zyad  👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zyad-Eltayabi&show_icons=true&theme=radical" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Eltayabi&layout=compact" /> 
 
 ## Languages & Tools Preference
