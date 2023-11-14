@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi there, I'm Zyad 👋</h1>
+<h1>Hi there, I'm Zyad 👋</h1>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zyad-Eltayabi&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
