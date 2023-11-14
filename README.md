@@ -1,4 +1,5 @@
-# Hi there , I'm Zyad  👋
+<h1 style="text-align: center;">Hi there, I'm Zyad 👋</h1>
+<h1 style="text-align: center;">Hi there, I'm Zyad 👋</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Eltayabi&layout=compact" /> 
 
