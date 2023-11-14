@@ -1,5 +1,8 @@
 <h1 style="text-align: center;">Hi there, I'm Zyad 👋</h1>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zyad-Eltayabi&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Eltayabi&layout=compact" /> 
 
 ## Languages & Tools Preference
