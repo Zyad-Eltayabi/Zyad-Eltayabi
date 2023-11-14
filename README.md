@@ -1,7 +1,7 @@
 # Hi there , I'm Zyad  👋
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Zyad-Eltayabi&show_icons=true&theme=radical" /> 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Eltayabi&layout=compact" /> 
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Zyad-Eltayabi&show_icons=true&theme=radical" /> 
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Eltayabi&layout=compact" /> 
 
 <h2 width="100%" >Languages & Tools Preference</h2>
 
