@@ -1,7 +1,4 @@
-<!-- 
-  GitHub Profile README for Zyad Eltayibi
-  Feel free to customize any section below!
--->
+
 
 <div align="center">
   
